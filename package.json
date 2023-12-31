@@ -19,7 +19,9 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
+        "@heroicons/vue": "^2.1.1",
         "@protonemedia/inertiajs-tables-laravel-query-builder": "^2.2.0",
+        "class-variance-authority": "^0.7.0",
         "preline": "^2.0.1"
     }
 }
